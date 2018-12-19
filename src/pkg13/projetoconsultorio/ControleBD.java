@@ -1,4 +1,5 @@
-package pkg13.projetoconsultorio;
+
+package pkg13.projetoconsultorio; // EDITE ESSA LINHA!
 
 //    paciente : nome, cpf, telefone, endereco
 //    medico   : nome, cpf, especialidade
